@@ -20,4 +20,7 @@ export class Board {
             this.cells.push(row);
         }
     }
+
 }
+
+
